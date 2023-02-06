@@ -2,6 +2,6 @@
 
 [https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
 
-## Use your own data
+## Live API db
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+A database build using the json db, that is live hosted and serves for the main project as an api from where we are fetching our data.
