@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/mihai-gabriel1/demo-apidb/)
 
 ## Live API db
 
